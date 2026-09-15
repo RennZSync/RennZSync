@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **WhatsApp, coding, DLL**
 
-- 📫 How to reach me **rdeforento@gmail.com**
+- 📫 How to reach me **rennzsync@gmail.com**
 
 - ⚡ Fun fact **I am in love with someone**
 
