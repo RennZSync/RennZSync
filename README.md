@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=RennZSync&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WhatsApp%20Bot%20%26%20Library%20Developer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&reversal=false&text=RennZSync&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&desc=WhatsApp%20Bot%20and%20Library%20Developer&descSize=20&descAlign=50&descAlignY=62&theme=cobalt" width="100%" />
 
 <a href="https://github.com/RennZSync">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24C6DC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Renz+%F0%9F%91%8B;WhatsApp+Bot+%26+Library+Developer;Maintainer+of+%40rennzsync%2Fbaileys;JavaScript+%7C+TypeScript+%7C+Python;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -76,20 +76,6 @@ const renz = {
 </div>
 
 <div align="center">
-
-<a href="https://github.com/RennZSync/baileys">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RennZSync&repo=baileys&theme=dracula&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/RennZSync/Base-baileys">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RennZSync&repo=Base-baileys&theme=dracula&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/RennZSync/plugins">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RennZSync&repo=plugins&theme=dracula&hide_border=true&border_radius=12" />
-</a>
-
-</div>
-
-<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
@@ -97,36 +83,13 @@ const renz = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RennZSync&show_icons=true&theme=dracula&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennZSync&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=8" />
+<img src="https://img.shields.io/github/followers/RennZSync?style=for-the-badge&logo=github&color=ff79c6&label=Followers" />
+<img src="https://img.shields.io/github/stars/RennZSync/baileys?style=for-the-badge&logo=github&color=8be9fd&label=baileys%20stars" />
+<img src="https://img.shields.io/npm/dm/@rennzsync/baileys?style=for-the-badge&logo=npm&color=bd93f9&label=npm%20downloads" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=RennZSync&theme=dracula&hide_border=true&border_radius=12" />
-
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RennZSync&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RennZSync&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=RennZSync&background=0D1117&hide_border=true&border_radius=12&ring=FF1E1E&fire=FF4500&currStreakNum=FF3B3B&currStreakLabel=FF1E1E&sideNums=FF5C5C&sideLabels=FF1E1E&dates=FFB3B3" />
 
 </div>
 
@@ -146,11 +109,7 @@ const renz = {
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RennZSync/RennZSync/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RennZSync/RennZSync/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/RennZSync/RennZSync/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/RennZSync/RennZSync/snake-output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -192,4 +151,4 @@ const renz = {
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&theme=cobalt" width="100%" />
