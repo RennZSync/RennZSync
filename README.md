@@ -15,7 +15,9 @@
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
 ## 👤 About Me
 
@@ -36,7 +38,9 @@ const renz = {
 - 💬 Ask me about **WhatsApp, bots, and coding**
 - 🌐 Portfolio: **[aboutt-rennz.vercel.app](https://aboutt-rennz.vercel.app)**
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +58,9 @@ const renz = {
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
 ## 📦 Featured Projects
 
@@ -72,57 +78,73 @@ const renz = {
 <div align="center">
 
 <a href="https://github.com/RennZSync/baileys">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RennZSync&repo=baileys&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RennZSync&repo=baileys&theme=dracula&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/RennZSync/Base-baileys">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RennZSync&repo=Base-baileys&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RennZSync&repo=Base-baileys&theme=dracula&hide_border=true&border_radius=12" />
 </a>
 <a href="https://github.com/RennZSync/plugins">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RennZSync&repo=plugins&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RennZSync&repo=plugins&theme=dracula&hide_border=true&border_radius=12" />
 </a>
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RennZSync&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennZSync&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RennZSync&show_icons=true&theme=dracula&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RennZSync&layout=compact&theme=dracula&hide_border=true&border_radius=12&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=RennZSync&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://streak-stats.demolab.com/?user=RennZSync&theme=dracula&hide_border=true&border_radius=12" />
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
 ## 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RennZSync&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=RennZSync&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RennZSync&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RennZSync&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" />
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
-## 🐍 Contribution Snake
+## 🎮 Arcade
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RennZSync/RennZSync/pacman-output/pacman-contribution-graph-dark.svg?game=pacman" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RennZSync/RennZSync/pacman-output/pacman-contribution-graph.svg?game=pacman" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RennZSync/RennZSync/pacman-output/pacman-contribution-graph.svg?game=pacman" />
+</picture>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RennZSync/RennZSync/output/github-snake-dark.svg" />
@@ -132,7 +154,9 @@ const renz = {
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
 ## 🌐 Connect With Me
 
@@ -151,7 +175,9 @@ const renz = {
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
 ## ☕ Support Me
 
