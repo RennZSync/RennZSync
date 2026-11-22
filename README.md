@@ -36,7 +36,7 @@ const renz = {
 - 🔭 Currently working on **[@rennzsync/baileys](https://www.npmjs.com/package/@rennzsync/baileys)**
 - 🤖 Building WhatsApp bot bases, plugins, and tools
 - 💬 Ask me about **WhatsApp, bots, and coding**
-- 🌐 Portfolio: **[aboutt-rennz.vercel.app](https://aboutt-rennz.vercel.app)**
+- 🌐 Portfolio: **[ABOUT RENNZSYNC](https://www.renzsync.my.id)**
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
